@@ -11,9 +11,17 @@ This repository uses the [Moby Word List](https://github.com/dwyl/english-words)
 Two letter words are ignored.
 
 
-Usage:
+## Installation:
+
+From PyPi: `pip install caesar-salad`
+
+
+## Usage
+
+Run by using `caesar-salad` on the terminal
+
 ```
-caesar.py [-h] [-d] [-w] [STR]
+caesar-salad [-h] [-d] [-w] [STR]
 
 positional arguments:
   STR                ROT-encoded string to decipher
