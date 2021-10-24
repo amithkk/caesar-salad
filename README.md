@@ -1,4 +1,6 @@
 # CaesarSalad
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Famithkk%2Fcaesar-salad.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Famithkk%2Fcaesar-salad?ref=badge_shield)
+
 
 
 ![](https://i.imgur.com/kXnquKG.gif)
@@ -31,3 +33,7 @@ optional arguments:
   -d, --decode-only  Only output best guess of decoded string
   -w, --which-rot    Find best guess of type of encoding
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Famithkk%2Fcaesar-salad.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Famithkk%2Fcaesar-salad?ref=badge_large)
